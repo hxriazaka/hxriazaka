@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/hxriazaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hxriazaka" height="30" width="40" /></a>
+<a href="https://twitter.com/hxriazaka" target="blank"><img width="48" height="48" src="https://img.icons8.com/ios-filled/48/twitterx--v1.png" alt="twitterx--v1"/></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
