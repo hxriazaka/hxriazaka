@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hxriazaka</h1>
-<h3 align="center">A Smart Contract Security Researcher on Solana Chain <img src="https://icons8.com/icon/NgbFFSOCkrnB/solana" alt="python" width="40" height="40"/></h3>
+<h3 align="center">A Smart Contract Security Researcher on Solana Chain <img width="64" height="64" src="https://img.icons8.com/external-black-fill-lafs/64/external-Solana-cryptocurrency-black-fill-lafs.png" alt="external-Solana-cryptocurrency-black-fill-lafs"/></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
